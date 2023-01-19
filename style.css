@@ -1,14 +1,22 @@
 .barra{
-    max-width: 100%;
+    width: 100%;
 }
 body{
    background-image: url(./monasterio/Diseño\ sin\ título\ \(4\).png);
    background-size: cover;
+   background-repeat: no-repeat;
 }
 .texto{
-    font-size: 2.3vh;
+    font-size: 2.5vh;
     font-weight: bolder;
 }
 .precio{
+   
     width: 15vh;
+}
+.menu{
+    background-color: rgba(177, 177, 177, 0.8);
+}
+.logo-menu{
+    width: 10vh;
 }
