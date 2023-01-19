@@ -1,0 +1,14 @@
+.barra{
+    max-width: 100%;
+}
+body{
+   background-image: url(./monasterio/Diseño\ sin\ título\ \(4\).png);
+   background-size: cover;
+}
+.texto{
+    font-size: 2.3vh;
+    font-weight: bolder;
+}
+.precio{
+    width: 15vh;
+}
